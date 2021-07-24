@@ -1,4 +1,4 @@
-<h2> Express, Sequilize & ES6 REST API Boilerplate </h2>
+<h2> Express, Sequilize & ES6 REST API Boilerplate, MVC pattern</h2>
 
 <div>
   <h4> This is a boilerplate for building REST APIs with ES6, Sequelize, and Express. </h4>
