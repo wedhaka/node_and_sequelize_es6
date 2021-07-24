@@ -1,15 +1,15 @@
-import {     
-    productReadAllService,
-    ProductReadService,
-    productAddService,
-    productUpdateService,
-    productDeleteService
-} from '../service/product.service';
+import {
+    itemReadAllService,
+    itemReadService,
+    itemAddService,
+    itemUpdateService,
+    itemDeleteService
+} from './item';
 
 export { 
-    productReadAllService,
-    ProductReadService,
-    productAddService,
-    productUpdateService,
-    productDeleteService
+    itemReadAllService,
+    itemReadService,
+    itemAddService,
+    itemUpdateService,
+    itemDeleteService
 };

@@ -1,5 +1,5 @@
 const connection = {
-    database: 'db_modisch',
+    database: 'sequelize_db',
     user: 'root',
     password: '',
     host: 'localhost',
