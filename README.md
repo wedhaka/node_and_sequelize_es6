@@ -9,8 +9,8 @@
     <!-- 
     <li>REST resources as middleware via resource-router-middleware</li>
     <li>CORS support via cors</li>
-    -->
     <li>Body Parsing via body-parser</li>
+    -->
   </ul>
   
   <blockquote>
@@ -24,13 +24,10 @@
     git clone git@github.com:wedhaka/node_and_sequelize_es6.git
     cd node_and_sequelize_es6
 
-    # Make it your own
-    rm -rf .git && git init && npm init
-
     # Install dependencies
     npm install
 
-    # Start development live-reload server
+    # Start development server
     PORT=3000 npm run dev
 
     # Start production server:
